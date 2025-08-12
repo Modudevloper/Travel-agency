@@ -23,6 +23,6 @@ Built with **Next.js 14**, **Tailwind CSS**, and fully responsive design.
 Clone the repository and install dependencies:
 
 ```bash
-(https://github.com/Modudevloper/Travel-agency.git)
+git clone (https://github.com/Modudevloper/Travel-agency.git)
 cd Travel-agency
 npm install
